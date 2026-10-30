@@ -6,3 +6,6 @@ src/data/
 
 # OS files
 .DS_Store
+
+# Output
+submission.csv
