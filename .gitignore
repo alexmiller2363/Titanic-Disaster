@@ -1,0 +1,8 @@
+# Virtual environment
+.venv/
+
+# Dataset (do not commit)
+src/data/
+
+# OS files
+.DS_Store
